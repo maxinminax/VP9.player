@@ -10,4 +10,4 @@ VP9TV's player
 - Demo & config: index.html
 
 <h2>LICENSE</h2>
-GPL v3
+MPL 2.0
