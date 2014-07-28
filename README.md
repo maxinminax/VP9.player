@@ -8,5 +8,5 @@ VP9TV's player
 - Dependencies: Jquery (http://jquery.com/) & Projekktor (http://projekktor.com)
 - Demo & config: index.html
 
-<h1>LICENSE</h1>
+<h2>LICENSE</h2>
 GPL v3
