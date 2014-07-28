@@ -10,4 +10,4 @@ VP9TV's player
 - Demo & config: index.html
 
 <h2>LICENSE</h2>
-MPL 2.0
+Video.js is licensed under the Mozilla Public License, Version 2.0. View the <a href="https://github.com/maxinminax/VP9.player/blob/master/LICENSE">license file</a>
