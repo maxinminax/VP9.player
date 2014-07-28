@@ -23,7 +23,7 @@ VP9TV's player
 - seeking
 - seeked
 
-<h4>Events:</h4>
+<h4>Methods:</h4>
 - setPlay
 - setPause
 - getCurrentVideo
